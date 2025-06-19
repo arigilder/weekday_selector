@@ -17,6 +17,6 @@ dev_dependencies:
   # We want to include the package in the tests so that users can understand
   # how the intl package and the weekday selector package work together.
   # The package is also used in the unit tests.
-  intl: ^0.19.0
+  intl: ^0.20.2
 flutter:
 scripts: derry.yaml
